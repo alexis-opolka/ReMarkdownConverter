@@ -1,10 +1,13 @@
 {
   "name": "markdown-converter",
-  "version": "5.2.1",
+  "version": "6.0.0",
   "type": "module",
   "private": true,
   "description": "A markdown-converter for vscode",
-  "author": "Manuel Thalmann <m@nuth.ch> (https://nuth.ch)",
+  "authors": [
+    "Manuel Thalmann <m@nuth.ch> (https://nuth.ch)",
+    "Alexis Opolka <contact@alexis-opolka.dev> (https://github.com/alexis-opolka/)"
+  ],
   "license": "MIT",
   "keywords": [
     "MarkDown",
@@ -28,13 +31,13 @@
   "directories": {
     "lib": "lib"
   },
-  "homepage": "https://github.com/manuth/MarkdownConverter#readme",
+  "homepage": "https://github.com/alexis-opolka/MarkdownConverter#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/manuth/MarkdownConverter.git"
+    "url": "https://github.com/alexis-opolka/MarkdownConverter.git"
   },
   "bugs": {
-    "url": "https://github.com/manuth/MarkdownConverter/issues"
+    "url": "https://github.com/alexis-opolka/MarkdownConverter/issues"
   },
   "publishConfig": {
     "access": "public"
@@ -146,7 +149,7 @@
   "displayName": "Markdown Converter",
   "icon": "Resources/Icon.png",
   "markdownDescription": "A Markdown-converter for Visual Studio Code",
-  "publisher": "manuth",
+  "publisher": "alexis-opolka",
   "categories": [
     "Other"
   ],
