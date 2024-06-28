@@ -75,7 +75,7 @@
     "es6-template-string": "^1.2.0",
     "front-matter": "^4.0.2",
     "fs-extra": "^11.2.0",
-    "get-port": "^6.1.2",
+    "get-port": "^7.1.0",
     "get-uri": "^6.0.3",
     "glob": "^10.4.2",
     "handlebars": "^4.7.7",
