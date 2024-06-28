@@ -124,7 +124,7 @@
     "@types/website-scraper": "^1.2.6",
     "@types/yamljs": "^0.2.31",
     "cross-env": "^7.0.3",
-    "eslint": "^8.24.0",
+    "eslint": "^9.5.0",
     "json5-loader": "^4.0.1",
     "lodash.kebabcase": "^4.1.1",
     "minimist": "^1.2.6",
