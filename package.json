@@ -140,7 +140,7 @@
     "ts-loader": "^9.4.1",
     "ts-nameof": "^5.0.0",
     "ts-node": "^10.9.1",
-    "ts-patch": "^2.0.2",
+    "ts-patch": "^3.2.1",
     "typescript": "^5.5.2",
     "vsce": "^2.11.0",
     "webpack": "^5.76.0",
