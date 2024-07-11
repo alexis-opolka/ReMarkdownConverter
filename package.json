@@ -77,7 +77,7 @@
     "fs-extra": "^11.2.0",
     "get-port": "^7.1.0",
     "get-uri": "^6.0.3",
-    "glob": "^10.4.2",
+    "glob": "^11.0.0",
     "handlebars": "^4.7.7",
     "highlight.js": "^11.6.0",
     "lodash.clonedeep": "^4.5.0",
