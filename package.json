@@ -90,7 +90,7 @@
     "markdown-it-table-of-contents": "^0.6.0",
     "multi-integer-range": "^5.0.0",
     "pkg-up": "^5.0.0",
-    "puppeteer-core": "^22.12.1",
+    "puppeteer-core": "^23.0.2",
     "serve-handler": "^6.1.5",
     "string-template": "^1.0.0",
     "transliteration": "^2.3.5",
