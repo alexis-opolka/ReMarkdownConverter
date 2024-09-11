@@ -87,7 +87,7 @@
     "markdown-it-container": "^4.0.0",
     "markdown-it-emoji": "^3.0.0",
     "markdown-it-include": "^2.0.0",
-    "markdown-it-table-of-contents": "^0.6.0",
+    "markdown-it-table-of-contents": "^0.8.0",
     "multi-integer-range": "^5.0.0",
     "pkg-up": "^5.0.0",
     "puppeteer-core": "^23.0.2",
