@@ -135,7 +135,7 @@
     "randexp": "^0.5.3",
     "random-js": "^2.1.0",
     "rimraf": "^6.0.0",
-    "sinon": "^18.0.0",
+    "sinon": "^19.0.2",
     "source-map-support": "^0.5.21",
     "ts-loader": "^9.4.1",
     "ts-nameof": "^5.0.0",
